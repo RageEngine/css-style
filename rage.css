@@ -4,7 +4,7 @@ body {
 }
 
 .logo {
-  font-family: monoton;
+  font-family: monospace, monoton!important;
   font-size: 37px;
 }
 
